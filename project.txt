@@ -8,6 +8,8 @@ thay đổi lable thành : tên đăng nhập , mật khẩu
 
 Thay đổi login thành: đăng nhập
 
-sửa id: textboxzusername , textboxmatkhau
+sửa id: textboxzusername 
+
+thêm chức năng đăng nhâp thành công (usernam = admin, password = admin) chuyển qua trang đăng nhập thành công 
 
 	
