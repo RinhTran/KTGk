@@ -1,3 +1,5 @@
 Thêm Label UserName, textbox: txtUserName
 
-thêm label mật khẩu , textbox: txtmatkhau
+Sửa label mật khẩu -> Pasword, txtmatkhau -> txt pasword
+
+Thêm nút btnlogin 	
