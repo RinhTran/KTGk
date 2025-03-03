@@ -3,3 +3,6 @@ Thêm Label UserName, textbox: txtUserName
 Sửa label mật khẩu -> Pasword, txtmatkhau -> txt pasword
 
 Thêm nút btnlogin 	
+
+thay đổi lable thành : tên đăng nhập , mật khẩu 
+
