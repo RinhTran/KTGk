@@ -1,1 +1,3 @@
 Thêm Label UserName, textbox: txtUserName
+
+thêm label mật khẩu , textbox: txtmatkhau
