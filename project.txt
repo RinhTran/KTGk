@@ -4,4 +4,10 @@ Sửa label mật khẩu -> Pasword, txtmatkhau -> txt pasword
 
 Thêm nút btnlogin 
 
-sửa id: textboxusername , textboxmatkhau	
+thay đổi lable thành : tên đăng nhập , mật khẩu 
+
+Thay đổi login thành: đăng nhập
+
+sửa id: textboxzusername , textboxmatkhau
+
+	
