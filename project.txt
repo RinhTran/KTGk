@@ -2,4 +2,6 @@ Thêm Label UserName, textbox: txtUserName
 
 Sửa label mật khẩu -> Pasword, txtmatkhau -> txt pasword
 
-Thêm nút btnlogin 	
+Thêm nút btnlogin 
+
+sửa id: textboxusername , textboxmatkhau	
