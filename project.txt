@@ -6,3 +6,5 @@ Thêm nút btnlogin
 
 thay đổi lable thành : tên đăng nhập , mật khẩu 
 
+Thay đổi login thành: đăng nhập 
+
